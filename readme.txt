@@ -46,10 +46,13 @@ In this version style options are not added yet, but the image is in a div and y
 
 
 == Screenshots ==
-1. Screenshot of a page using the Genesis Featured Image
-2. Screenshot of the plugin settings page Genesis -> Featured Image
+1. **Settings Page** - Screenshot of a page using the Genesis Featured Image
+2. **Genesis Featured Image in Action** - Screenshot of the plugin settings page Genesis -> Featured Image
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.0.1 - 1 Jun 2015
+* Minor tweaks to readme file
+
+= 1.0.0 - 1 Jun 2015 =
 * Initial release
